@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository has moved.** The EPG generator now lives in the app monorepo
+> **https://github.com/DimaKarma/iptv-roku** under `epg/`. EPG data is published to that
+> repo's `epg-data` branch:
+> `https://raw.githubusercontent.com/DimaKarma/iptv-roku/epg-data/epg.json`.
+> This repository is archived and no longer updated.
+
 # iptv-epg — компактный EPG для IPTV-плеера на Roku
 
 Генератор программы передач (EPG) для домашнего IPTV-приложения на Hisense Roku TV.
